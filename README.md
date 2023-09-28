@@ -32,3 +32,4 @@ As part of analysing the dataset, many steps were carried out:
 Due to the time constraint it was only possible to train this model.
 Also, as part of analysis of the dataset, we can also check for correlation between the dependent(feature) and independent columns(labels).
 **But to get better and efficient results, it is better to use all the columns given in the dataset as features. BUT, we also need to check whether or not it is leading to some poor results due to "curse of dimensionality". Although the number of columns/features in this dataset is just 5, it is still advised and better to go with some dimensionality reduction techniques like: PCA, so that we get more optimised results.**
+Also, there is an attached .png file which is just to demonstrate the dataset after the preprocessing.
